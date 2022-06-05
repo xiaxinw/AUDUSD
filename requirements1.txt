@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+matplotlib
+numpy
+math
